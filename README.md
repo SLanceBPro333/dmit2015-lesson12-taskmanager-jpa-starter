@@ -10,6 +10,28 @@ This practice prepares you for **Assignment 3**, where you will apply the same p
 
 ---
 
+## How to Use This Repository
+
+This repository is a public starter project for the Lesson 12 TaskManager JPA practice activity.
+
+Do **not** clone the original repository directly unless you only want a read-only copy. If you clone the original repository, you will not be able to push your changes back to GitHub.
+
+Use the following workflow:
+
+1. Click **Fork** on the GitHub repository page.
+2. Create the fork under your own GitHub account.
+3. Clone **your fork** into IntelliJ IDEA.
+4. Complete the TaskManager JPA practice activity.
+5. Commit and push your changes to **your fork**.
+6. Use what you learned to complete Assignment 3 in your separate Assignment 3 GitHub Classroom repository.
+
+Important:
+
+- This practice repository is **not** your Assignment 3 submission.
+- Assignment 3 must be completed in your separate GitHub Classroom Assignment 3 repository.
+- Do not submit your Lesson 12 practice fork for Assignment 3.
+
+
 ## Important
 
 This is a practice project only.
