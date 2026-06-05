@@ -19,8 +19,8 @@ import jakarta.enterprise.context.ApplicationScoped;
         @DataSourceDefinition(
                 name = "java:app/datasources/H2DatabaseDS",
                 className = "org.h2.jdbcx.JdbcDataSource",
-                // url="jdbc:h2:file:~/jdk/databases/h2/DMIT201CourseDB;",
-                url = "jdbc:h2:mem:test;DB_CLOSE_DELAY=-1;",
+                url="jdbc:h2:file:~/jdk/databases/h2/DMIT201CourseDB;",
+//                url = "jdbc:h2:mem:test;DB_CLOSE_DELAY=-1;",
                 user = "user2015",
                 password = "Password2015"),
 
