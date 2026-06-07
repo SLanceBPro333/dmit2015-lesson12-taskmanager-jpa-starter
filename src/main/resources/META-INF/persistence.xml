@@ -18,7 +18,8 @@
             <!--
             The jakarta.persistence.schema-generation.database.action property specifies the action to be taken by the persistence provider with regard to the database artifacts. The values for this property are none, create, drop-and-create, drop, validate
             -->
-            <property name="jakarta.persistence.schema-generation.database.action" value="none"/>
+            <property name="jakarta.persistence.schema-generation.database.action" value="drop-and-create"/>
+<!--            <property name="jakarta.persistence.schema-generation.database.action" value="none"/>-->
             <!-- <property name="jakarta.persistence.sql-load-script-source" value="META-INF/sql/import-data.sql" /> -->
 
         </properties>
