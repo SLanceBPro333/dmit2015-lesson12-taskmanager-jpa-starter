@@ -16,7 +16,7 @@ import java.util.random.RandomGenerator;
 @NoArgsConstructor
 public class Task {
 
-    @Id
+//    @Id
     private String id;
 
     @NotBlank(message = "Description is required")
